@@ -1,4 +1,11 @@
-build/
+
 !**/build/test-reports/test/*.xml
+build/classes
+build/generated
+build/jacoco
+build/libs
+build/reports
+build/tmp
+build/test-results/test/binary
 **/.gradle
 ~
