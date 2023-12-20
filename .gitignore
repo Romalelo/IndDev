@@ -1,6 +1,5 @@
 
 !**/build/test-reports/test/*.xml
-build/classes
 build/generated
 build/libs
 build/tmp
