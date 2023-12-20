@@ -1,4 +1,4 @@
 build/
-!/build/test-results
+!**/build/test-reports/test/*.xml
 **/.gradle
 ~
